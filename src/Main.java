@@ -46,7 +46,7 @@ public class Main {
         numPassageiros = input.nextInt();
         
         
-        //crio objetos das classes das locadoras e defino preços e capacidade para cada um
+        ///crio objetos das classes das locadoras e defino preços e capacidade para cada um
         SouthCar southCar = new SouthCar();
         WestCar westCar = new WestCar();
         NorthCar northCar = new NorthCar();
